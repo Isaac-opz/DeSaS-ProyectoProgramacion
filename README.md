@@ -17,3 +17,8 @@ Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" m
 - Mantener el inventario del minimarket actualizado en tiempo real.
 - Generar recomendaciones precisas y útiles para el personal encargado del reabastecimiento y seguimiento de inventario.
 - Mejorar la satisfacción del cliente mediante la disponibilidad constante de los productos en el minimarket.
+
+## Links:
+
+- Google Colab: https://colab.research.google.com/drive/1itzaebf6_kFmfHwm9pqFe5gRzvG7idTi?hl=es
+- Trello: https://trello.com/invite/b/EeSrz5U9/ATTIff5499b709da0a272cc1383e96cb2ca0EE207474/proyecto-programacion
