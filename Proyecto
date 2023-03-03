@@ -1,0 +1,103 @@
+Proyecto (De s a S)
+
+
+
+
+
+
+
+
+
+Juan Manuel Lopez Rodriguez (2226066)
+Juan Sebastian Gutierrez Sabogal (2226048)
+William Alejandro Botero Flores (2225155)
+Isaac Piedrahita Carvajal (2226259)
+
+
+
+
+
+
+
+Programación
+
+
+
+
+
+Universidad Autónoma de Occidente
+
+Facultad de Ingeniería
+
+Santiago de Cali
+
+2023
+1) Definir el contexto en el que se ha recolectado la información: 
+Los datos han sido recogidos en un negocio, el cual está ubicado en las partes límites de la ciudad, en donde van clientes de todas las edades, pero la gran diferencia, es que los productos que cada persona compra, depende de las edades.
+
+Por ejemplo, la mayoría de adolescentes entre los 12 y los 17 años, son gran diferenciados por comprar las cosas de confitería de la tienda, es decir, todo lo que sean dulces, frituras, bebidas energizantes, gaseosas, entre otras.
+
+Por otra parte están las personas que compran los productos de la canasta familiar, que por lo general, son gente cabezas de hogar, están igual que los adolescentes, son diferenciados por esto mismo, ya que, son las personas que más productos compran al momento de realizar la compra.
+
+Otro grupo de personas conocido son los amantes del fútbol, los cuales son unos de los principales actores en comprar los productos de licorería, los que son bebidas alcohólicas y cigarrillos.
+
+Como mencionaremos más adelante en la parte de datos principales del negocio, este minimarket está ubicado en una zona bastante concurrida principalmente en horas de la noche, que es donde más tránsito de carros hay, lo cual le genera una gran ventaja a la hora de vender, pero por otra parte, una de las  desventajas que tiene de estar ubicado en estas zonas, es que está rodeada y acompañada de restaurantes y muy cerca del centro comercial principal de la ciudad, lo que hace que, aunque sí tenga clientes, la cantidad de personas no sean tanto como las esperadas.
+
+
+2)Datos principales del negocio: 
+
+El negocio objetivo es un minimarket que está encargado de vender diversas cosas, entre ellas los productos de la canasta familiar, confitería, licores, helados, cigarrillos, entre otras cosas. 
+
+Está ubicada en el edificio del conjunto residencial Maranta, Palmira, Valle del Cauca, cabe aclarar que la zona donde el minimarket está ubicado, es bastante concurrida, principalmente en las horas de la noche, que es el horario común en donde más carros transcurren por las calles.
+
+Además, cuenta con seguridad proporcionada por cámaras de seguridad, las cuales mantienen al margen de lo que pasa en el tiempo en el que la tienda está a disposición del público, que por lo general, hacen un horario continuo de 8 am a 10 pm entre semana, y de 8 am a 11 pm los fines de semana y los festivos.
+
+
+
+
+
+
+3) Nombre del Proyecto: De s a S (De sensores a Soluciones):
+
+La idea del nombre del proyecto es un poco confusa, pero es como un juego de palabras, ya que, la idea de que la s del título pase de ser una s minúscula a una S mayúscula es por el valor que le daremos a los sensores, es decir, que la s representa al sensor normal sin ningún uso, mientras que la otra S, representa de la misma manera a los sensores, pero estos ya están en funcionamiento, es decir que ya agarraron un valor para poder solucionar algo.
+
+BOCETO:
+
+
+4) Árbol de Problemas:
+
+
+
+5)Antecedentes:
+
+1. El artículo "Supply chain and logistics optimization management for international trading enterprises using IoT-based economic logistics model" presenta un modelo de logística económica basado en Internet de las cosas (IoT) para la gestión de la cadena de suministro y la optimización logística de empresas de comercio internacional. Los autores describen cómo se pueden usar las tecnologías IoT para aumentar la eficiencia y la transparencia de las cadenas de suministro, y cómo se pueden usar los algoritmos de optimización para reducir costos y mejorar la eficiencia de los procesos logísticos. Se presenta un caso de estudio de una empresa comercial internacional para ilustrar la implementación del modelo propuesto en la práctica, y se discuten los resultados obtenidos. En general, este documento destaca la importancia de las tecnologías IoT y la optimización en la gestión y logística de la cadena de suministro en el contexto del comercio internacional. 
+
+2.El artículo "IoT in Supply Chain Management and Logistics: Benefits, Use Cases and Examples" explora cómo la tecnología IoT (Internet de las cosas) está transformando la gestión de la cadena de suministro y la logística. El artículo describe los beneficios de la tecnología IoT en la gestión de la cadena de suministro, incluyendo la mejora de la visibilidad y la transparencia, la optimización de la eficiencia y la reducción de los costos. El artículo también presenta varios casos de uso de IoT en la logística, como el seguimiento de la ubicación y la temperatura de los productos, la monitorización del rendimiento de los activos y la gestión de la flota de vehículos. El artículo concluye con una discusión sobre los desafíos y oportunidades asociados con la implementación de la tecnología IoT en la gestión de la cadena de suministro y la logística, y ofrece consejos para las empresas que deseen aprovechar los beneficios de la tecnología IoT en estas áreas. En general, el artículo destaca el potencial de la tecnología IoT para mejorar significativamente la eficiencia y la transparencia en la gestión de la cadena de suministro y la logística.
+
+Legchekov, S. (2022). IoT in Supply Chain Management and Logistics: an Overview. ScienceSoft. https://www.scnsoft.com/blog/iot-scm-and-logistics
+
+3. El artículo "IoT: Conectando empresas para desarrollar negocios más inteligentes" describe cómo la tecnología IoT (Internet de las cosas) puede ayudar a las empresas a desarrollar negocios más inteligentes. El artículo comienza explicando cómo funciona la tecnología IoT y cómo se puede utilizar para recopilar y analizar datos en tiempo real. Luego, el artículo describe varios casos de uso de IoT en diferentes sectores, incluyendo la fabricación, la energía, la salud y la agricultura. En cada uno de estos casos, se explican los beneficios de la tecnología IoT, como la mejora de la eficiencia, la reducción de los costos y la mejora de la calidad y seguridad de los productos. Finalmente, el artículo destaca los desafíos y oportunidades asociados con la implementación de la tecnología IoT en las empresas, incluyendo la necesidad de inversiones en infraestructura y seguridad, la gestión de grandes volúmenes de datos y la necesidad de talento especializado. En general, el artículo destaca el potencial de la tecnología IoT para transformar una amplia gama de industrias y aplicaciones, y ofrece una visión general de las tendencias y desarrollos actuales en esta área.
+
+Lieberman, M. (2020). IoT: conectando empresas para desarrollar negocios más inteligentes. Ideas PwC. https://ideas.pwc.es/archivos/20201106/iot-conectando-empresas-para-desarrollar-negocios-mas-inteligentes/
+
+
+6) Objetivos:
+
+Objetivo general: Mejorar la calidad en la logística de productos del Minimarket To-Go
+
+Objetivos específicos: -Realizar un sondeo sobre la distribución de los productos en el Minimarket To-Go.
+
+-Realizar un sondeo aparte, sobre las ubicaciones específicas para colocar un sistema que permita recolectar los datos necesarios para encontrar una solución. (Sensores)
+
+-Aprender a programar sensores para la detección de movimientos en las ventas
+
+-Implementar sensores ya programados en los puntos específicos para lograr una efectiva recolección de datos.
+
+-Presentar una solución a la problemática mediante el análisis de los datos recolectados a través del uso de sensores
+
+
+7) ¿Que quisiera hacer con los datos? ¿Tipo de analitica?:
+El tipo de analitica que se va a utilizar es descriptiva, en la cual se generarán unos datos con el fin de solucionar una problemática, en donde en nuestro caso, los datos recogidos ayudarán a mejorar y solucionar en cierta medida problemáticas presentadas en la parte de la logística, haciendo así que después de que la solución sea aplicada, los problemas por parte de la logística no afecten de manera indirecta al crecimiento de la empresa.
+
+8) Empezar el proceso de recolección de datos:
+Por ahora, la recolección de datos ha sido muy poca, sin embargo, hay un punto que nos ayuda mucho al momento de resolver una de las problemáticas, ya que, mediante este proceso hemos podido darnos cuenta que en el minimarket hay muchos productos que no están registrados en la base de datos del lector de codigo de barras, lo que hace que estos productos sean apuntados en hojas de papel, además de que, por ahora el dueño de la tienda ha decidido mantener estos productos bajo confiabilidad, por lo que se nos hace un poquito difícil conseguir exactamente los datos.
