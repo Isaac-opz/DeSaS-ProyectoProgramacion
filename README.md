@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" m
 
 ## Tecnologías y Herramientas Utilizadas:
  - Python: Lenguaje de programación utilizado para el desarrollo del proyecto.
- - Sensores de IoT: Sensores de luz y movimientos, usados para monitorear el inventario de los productos en las estanterías y recopilar datos.
+ - Sensores de IoT: Sensores de movimientos, usados para monitorear el inventario de los productos en las estanterías y recopilar datos.
 
 ## Integrantes
 - Juan Sebastián Gutierrez
