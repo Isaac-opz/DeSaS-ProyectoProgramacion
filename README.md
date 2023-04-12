@@ -13,10 +13,13 @@ Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" m
 - Isaac Piedrahita
 
 ## Objetivos del Proyecto:
-- Mejorar la calidad en la logística de productos del Minimarket To-Go
+- Ayudar en la logistica de clientes del Minimarket To-Go
 - Mantener el inventario del minimarket actualizado en tiempo real.
 - Generar recomendaciones precisas y útiles para el personal encargado del reabastecimiento y seguimiento de inventario.
 - Mejorar la satisfacción del cliente mediante la disponibilidad constante de los productos en el minimarket.
+
+##Bases de datos:
+-Bases de datos exixtentes en sí, no hay, estos cuentan con muy poca información que nos pueda ayudar con respecto a la problematica
 
 ## Links:
 
