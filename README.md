@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" m
 
 ## Bases de datos:
 
--Bases de datos exixtentes en sí, no hay, estos cuentan con muy poca información que nos pueda ayudar con respecto a la problematica
+- Bases de datos exixtentes en sí, no hay, estos cuentan con muy poca información que nos pueda ayudar con respecto a la problematica
 
 ## Links:
 
