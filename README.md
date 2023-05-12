@@ -1,10 +1,10 @@
 # DeSaS-ProyectoProgramacion
  Descripción del Proyecto: ToGo Mini-market
-Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" mediante el uso de sensores de IoT (Internet de las cosas) y técnicas de Inteligencia Artificial. El proyecto tiene como objetivo principal optimizar los procesos de reabastecimiento de los productos en las estanterías y el seguimiento del inventario del minimarket.
+Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" mediante el uso de sensores de IoT (Internet de las cosas) y técnicas de Análisis de datos. El proyecto tiene como objetivo principal optimizar los procesos de lógistica y ofrecer soluciones a partir del seguimiento constante del flujo de clientes del minimarket.
 
 ## Tecnologías y Herramientas Utilizadas:
  - Python: Lenguaje de programación utilizado para el desarrollo del proyecto.
- - Sensores de IoT: Sensores de movimientos, usados para monitorear el inventario de los productos en las estanterías y recopilar datos.
+ - Sensores de IoT: Sensores de movimientos, usados para monitorear el flujo de clientes y recopilar datos relevantes.
 
 ## Integrantes
 - Juan Sebastián Gutierrez
@@ -13,14 +13,13 @@ Este proyecto tiene como objetivo mejorar la logística del "ToGo Mini-market" m
 - Isaac Piedrahita
 
 ## Objetivos del Proyecto:
-- Ayudar en la logistica de clientes del Minimarket To-Go
-- Mantener el inventario del minimarket actualizado en tiempo real.
+- Encontrar soluciones que ayuden a la mejora de la logistica de los clientes del Minimarket To-Go
 - Generar recomendaciones precisas y útiles para el personal encargado del reabastecimiento y seguimiento de inventario.
-- Mejorar la satisfacción del cliente mediante la disponibilidad constante de los productos en el minimarket.
+- Encontrar distintas formas de mejorar la satisfacción del cliente mediante el análisis de los datos recopilados.
 
 ## Bases de datos:
 
-- Bases de datos exixtentes en sí, no hay, estos cuentan con muy poca información que nos pueda ayudar con respecto a la problematica
+- Bases de datos exixtentes en sí, no hay, o estas cuentan con muy poca información que puediese ser de ayuda respecto a las áreas de mejora.
 
 ## Links:
 
